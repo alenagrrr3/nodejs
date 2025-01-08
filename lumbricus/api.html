@@ -1,0 +1,109 @@
+<html>
+<head>
+    <title>igv.js embedding example</title>
+</head>
+
+<body>
+
+<h3> Lumbricus Terrestris. Worked out chromosome 1 </h3>
+<p> Track1 :junctions </p>
+<p> Track2: rna-seq transcripts </p> 
+<p> Track3: protocol1 (rna pipeline) </p>
+<p> Track4: prtocol2 (protein pipeline) </p>
+
+<div id="igvDiv"></div>
+
+<script type="module">
+
+    import igv from "../dist/igv.esm.js"
+
+
+     // create custom format
+	 
+	 
+    const dragenrohbedFormatFields = ['chr', 'start', 'end', 'score', 'hom', 'het']
+    igv.registerFileFormats("dragenrohbed", dragenrohbedFormatFields)
+
+    const annFields = ['chr','source', 'feature', 'start', 'end', 'score', 'strand','hom', 'id']
+    igv.registerFileFormats("annot", annFields)
+    
+
+    const ann2Fields = ['chr','source', 'feature', 'start', 'end', 'score', 'strand']
+    igv.registerFileFormats("annot2", ann2Fields)
+	
+	const jFields = ['chr',  'start', 'end', 'feature', 'score', 'strand']
+    igv.registerFileFormats("j", jFields)
+ 
+
+  
+   const config = {
+        reference: "mm10",
+        locus: "chr1:229,907-347,044",
+        tracks: [
+
+			{
+				url: './junctions7.bed', 
+				type: 'junction',
+				name: 'Junctions',
+				format: 'bed',
+				displayMode: 'COLLAPSED',
+				minUniquelyMappedReads: 1,
+				minTotalReads: 1,
+				maxFractionMultiMappedReads: 1,
+				minSplicedAlignmentOverhang: 0
+			},			
+		
+			
+            {
+                name: 'rna-seq',
+                url: './transcripts.gff',
+                color: '#03A9F4',
+                type: 'annotation',
+                format: 'gff3'
+            },
+			
+            {
+                name: 'protocol1',
+                url: './protocol1.gff',            
+                format: 'gff3',
+				colorBy: "biotype",
+				colorTable: {
+				"antisense": "blueviolet",
+				"protein_coding": "blue",
+				"processed_transcript": "purple",
+				"processed_pseudogene": "#7fff00",
+				 "*": "DimGray",
+				 "unprocessed_pseudogene": "#d2691e"
+				 }
+            },
+
+			
+            {
+                name: "Protocol2",
+                format: "gff3",
+                displayMode: "expanded",
+                height: 300,
+                url: './protocol2.gff',                
+                visibilityWindow: 1000000,
+                colorBy: "biotype",
+                // Uncomment to explicitly set a colorTable
+                colorTable: {
+                "antisense": "blueviolet",
+                "protein_coding": "blue",
+                "retained_intron": "rgb(0, 150, 150)",
+                "processed_transcript": "purple",
+                "processed_pseudogene": "#7fff00",
+                "unprocessed_pseudogene": "#d2691e",
+                "*": "black"
+                }
+            },
+			
+        ]
+    }
+
+    const browser = await igv.createBrowser(document.getElementById("igvDiv"), config)
+
+</script>
+
+</body>
+</html>
