@@ -41,6 +41,7 @@
 // https://genome321.s3.amazonaws.com/transcriptsOX457036.gtf
 
 //https://genome321.s3.amazonaws.com/junctions.bed
+//https://genome321.s3.amazonaws.com/transcripts.gff3
 
 
     import igv from "https://genome321.s3.amazonaws.com/igv.esm.min.js"
@@ -59,7 +60,7 @@
             tracks: [
                 {
 					name: 'rna-seq',
-					url: 'https://genome321.s3.amazonaws.com/transcriptsOX457036.gtf',
+					url: 'https://genome321.s3.amazonaws.com/transcripts.gff3',
 					//color: '#03A9F4',
 					color:'navy',
 					type: 'annotation',
@@ -75,7 +76,7 @@
 					minTotalReads: 1,
 					maxFractionMultiMappedReads: 1,
 					minSplicedAlignmentOverhang: 0,
-					color: "lilac"					
+					colorBy: 'isAnnotatedJunction'					
 				},
 				
 				{

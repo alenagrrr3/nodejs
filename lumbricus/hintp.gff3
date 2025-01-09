@@ -1,0 +1,129 @@
+##gff-version 3
+OX457036.1	gth	gene	37878331	37880625	.	+	.	ID=Q9GRJ1 CALM_LUMRU Calmodulin;gene_id=Q9GRJ1 CALM_LUMRU Calmodulin;transcript_id=OX457036.1_Q9GRJ1 CALM_LUMRU Calmodulin
+OX457036.1	gth	mRNA	37878331	37880625	.	+	.	ID=OX457036.1_Q9GRJ1 CALM_LUMRU Calmodulin;Parent=Q9GRJ1 CALM_LUMRU Calmodulin;gene_id=Q9GRJ1 CALM_LUMRU Calmodulin;transcript_id=OX457036.1_Q9GRJ1 CALM_LUMRU Calmodulin
+OX457036.1	gth	exon	37878331	37878496	.	+	0	ID=exon-1;Parent=OX457036.1_Q9GRJ1 CALM_LUMRU Calmodulin;gene_id=Q9GRJ1 CALM_LUMRU Calmodulin;transcript_id=OX457036.1_Q9GRJ1 CALM_LUMRU Calmodulin
+OX457036.1	gth	exon	37880237	37880479	.	+	2	ID=exon-2;Parent=OX457036.1_Q9GRJ1 CALM_LUMRU Calmodulin;gene_id=Q9GRJ1 CALM_LUMRU Calmodulin;transcript_id=OX457036.1_Q9GRJ1 CALM_LUMRU Calmodulin
+OX457036.1	gth	exon	37880597	37880625	.	+	2	ID=exon-3;Parent=OX457036.1_Q9GRJ1 CALM_LUMRU Calmodulin;gene_id=Q9GRJ1 CALM_LUMRU Calmodulin;transcript_id=OX457036.1_Q9GRJ1 CALM_LUMRU Calmodulin
+OX457036.1	gth	CDS	37878331	37878496	.	+	0	ID=cds-1;Parent=OX457036.1_Q9GRJ1 CALM_LUMRU Calmodulin;gene_id=Q9GRJ1 CALM_LUMRU Calmodulin;transcript_id=OX457036.1_Q9GRJ1 CALM_LUMRU Calmodulin
+OX457036.1	gth	CDS	37880237	37880479	.	+	2	ID=cds-2;Parent=OX457036.1_Q9GRJ1 CALM_LUMRU Calmodulin;gene_id=Q9GRJ1 CALM_LUMRU Calmodulin;transcript_id=OX457036.1_Q9GRJ1 CALM_LUMRU Calmodulin
+OX457036.1	gth	CDS	37880597	37880625	.	+	2	ID=cds-3;Parent=OX457036.1_Q9GRJ1 CALM_LUMRU Calmodulin;gene_id=Q9GRJ1 CALM_LUMRU Calmodulin;transcript_id=OX457036.1_Q9GRJ1 CALM_LUMRU Calmodulin
+OX457036.1	gth	gene	44647522	44649906	.	+	.	ID=OX457036.1_g_P91754|ACT_LUMRU Actin;gene_id=OX457036.1_g_P91754|ACT_LUMRU Actin;transcript_id=OX457036.1_t_P91754|ACT_LUMRU Actin
+OX457036.1	gth	mRNA	44647522	44649906	.	+	.	ID=OX457036.1_t_P91754|ACT_LUMRU Actin;Parent=OX457036.1_g_P91754|ACT_LUMRU Actin;gene_id=OX457036.1_g_P91754|ACT_LUMRU Actin;transcript_id=OX457036.1_t_P91754|ACT_LUMRU Actin
+OX457036.1	gth	exon	44647522	44647647	.	+	0	ID=exon-4;Parent=OX457036.1_t_P91754|ACT_LUMRU Actin;gene_id=OX457036.1_g_P91754|ACT_LUMRU Actin;transcript_id=OX457036.1_t_P91754|ACT_LUMRU Actin
+OX457036.1	gth	exon	44648902	44649906	.	+	0	ID=exon-5;Parent=OX457036.1_t_P91754|ACT_LUMRU Actin;gene_id=OX457036.1_g_P91754|ACT_LUMRU Actin;transcript_id=OX457036.1_t_P91754|ACT_LUMRU Actin
+OX457036.1	gth	CDS	44647522	44647647	.	+	0	ID=cds-4;Parent=OX457036.1_t_P91754|ACT_LUMRU Actin;gene_id=OX457036.1_g_P91754|ACT_LUMRU Actin;transcript_id=OX457036.1_t_P91754|ACT_LUMRU Actin
+OX457036.1	gth	CDS	44648902	44649906	.	+	0	ID=cds-5;Parent=OX457036.1_t_P91754|ACT_LUMRU Actin;gene_id=OX457036.1_g_P91754|ACT_LUMRU Actin;transcript_id=OX457036.1_t_P91754|ACT_LUMRU Actin
+OX457036.1	gth	gene	51521591	51524948	.	+	.	ID=OX457036.1_Q2I743_LUMTE Extracellular hemoglobin linker;gene_id=OX457036.1_Q2I743_LUMTE Extracellular hemoglobin linker;transcript_id=OX457036.Q2I743_LUMTE Extracellular hemoglobin linker
+OX457036.1	gth	mRNA	51521591	51524948	.	+	.	ID=OX457036.Q2I743_LUMTE Extracellular hemoglobin linker;Parent=OX457036.1_Q2I743_LUMTE Extracellular hemoglobin linker;gene_id=OX457036.1_Q2I743_LUMTE Extracellular hemoglobin linker;transcript_id=OX457036.Q2I743_LUMTE Extracellular hemoglobin linker
+OX457036.1	gth	exon	51521591	51521876	.	+	0	ID=exon-6;Parent=OX457036.Q2I743_LUMTE Extracellular hemoglobin linker;gene_id=OX457036.1_Q2I743_LUMTE Extracellular hemoglobin linker;transcript_id=OX457036.Q2I743_LUMTE Extracellular hemoglobin linker
+OX457036.1	gth	exon	51522718	51522846	.	+	2	ID=exon-7;Parent=OX457036.Q2I743_LUMTE Extracellular hemoglobin linker;gene_id=OX457036.1_Q2I743_LUMTE Extracellular hemoglobin linker;transcript_id=OX457036.Q2I743_LUMTE Extracellular hemoglobin linker
+OX457036.1	gth	exon	51523794	51523972	.	+	2	ID=exon-8;Parent=OX457036.Q2I743_LUMTE Extracellular hemoglobin linker;gene_id=OX457036.1_Q2I743_LUMTE Extracellular hemoglobin linker;transcript_id=OX457036.Q2I743_LUMTE Extracellular hemoglobin linker
+OX457036.1	gth	exon	51524676	51524948	.	+	0	ID=exon-9;Parent=OX457036.Q2I743_LUMTE Extracellular hemoglobin linker;gene_id=OX457036.1_Q2I743_LUMTE Extracellular hemoglobin linker;transcript_id=OX457036.Q2I743_LUMTE Extracellular hemoglobin linker
+OX457036.1	gth	CDS	51521591	51521876	.	+	0	ID=cds-6;Parent=OX457036.Q2I743_LUMTE Extracellular hemoglobin linker;gene_id=OX457036.1_Q2I743_LUMTE Extracellular hemoglobin linker;transcript_id=OX457036.Q2I743_LUMTE Extracellular hemoglobin linker
+OX457036.1	gth	CDS	51522718	51522846	.	+	2	ID=cds-7;Parent=OX457036.Q2I743_LUMTE Extracellular hemoglobin linker;gene_id=OX457036.1_Q2I743_LUMTE Extracellular hemoglobin linker;transcript_id=OX457036.Q2I743_LUMTE Extracellular hemoglobin linker
+OX457036.1	gth	CDS	51523794	51523972	.	+	2	ID=cds-8;Parent=OX457036.Q2I743_LUMTE Extracellular hemoglobin linker;gene_id=OX457036.1_Q2I743_LUMTE Extracellular hemoglobin linker;transcript_id=OX457036.Q2I743_LUMTE Extracellular hemoglobin linker
+OX457036.1	gth	CDS	51524676	51524948	.	+	0	ID=cds-9;Parent=OX457036.Q2I743_LUMTE Extracellular hemoglobin linker;gene_id=OX457036.1_Q2I743_LUMTE Extracellular hemoglobin linker;transcript_id=OX457036.Q2I743_LUMTE Extracellular hemoglobin linker
+OX457036.1	gth	gene	51535969	51539683	.	+	.	ID=extracellular hemoglobin linker L3 subunit precursor,;gene_id=extracellular hemoglobin linker L3 subunit precursor,;transcript_id=OX457036.1_t_gene5_mRNA6
+OX457036.1	gth	mRNA	51535969	51539683	.	+	.	ID=OX457036.1_t_gene5_mRNA6;Parent=extracellular hemoglobin linker L3 subunit precursor,;gene_id=extracellular hemoglobin linker L3 subunit precursor,;transcript_id=OX457036.1_t_gene5_mRNA6
+OX457036.1	gth	exon	51535969	51536197	.	+	0	ID=exon-10;Parent=OX457036.1_t_gene5_mRNA6;gene_id=extracellular hemoglobin linker L3 subunit precursor,;transcript_id=OX457036.1_t_gene5_mRNA6
+OX457036.1	gth	exon	51537632	51537751	.	+	2	ID=exon-11;Parent=OX457036.1_t_gene5_mRNA6;gene_id=extracellular hemoglobin linker L3 subunit precursor,;transcript_id=OX457036.1_t_gene5_mRNA6
+OX457036.1	gth	exon	51538288	51538421	.	+	2	ID=exon-12;Parent=OX457036.1_t_gene5_mRNA6;gene_id=extracellular hemoglobin linker L3 subunit precursor,;transcript_id=OX457036.1_t_gene5_mRNA6
+OX457036.1	gth	exon	51539444	51539683	.	+	0	ID=exon-13;Parent=OX457036.1_t_gene5_mRNA6;gene_id=extracellular hemoglobin linker L3 subunit precursor,;transcript_id=OX457036.1_t_gene5_mRNA6
+OX457036.1	gth	CDS	51535969	51536197	.	+	0	ID=cds-10;Parent=OX457036.1_t_gene5_mRNA6;gene_id=extracellular hemoglobin linker L3 subunit precursor,;transcript_id=OX457036.1_t_gene5_mRNA6
+OX457036.1	gth	CDS	51537632	51537751	.	+	2	ID=cds-11;Parent=OX457036.1_t_gene5_mRNA6;gene_id=extracellular hemoglobin linker L3 subunit precursor,;transcript_id=OX457036.1_t_gene5_mRNA6
+OX457036.1	gth	CDS	51538288	51538421	.	+	2	ID=cds-12;Parent=OX457036.1_t_gene5_mRNA6;gene_id=extracellular hemoglobin linker L3 subunit precursor,;transcript_id=OX457036.1_t_gene5_mRNA6
+OX457036.1	gth	CDS	51539444	51539683	.	+	0	ID=cds-13;Parent=OX457036.1_t_gene5_mRNA6;gene_id=extracellular hemoglobin linker L3 subunit precursor,;transcript_id=OX457036.1_t_gene5_mRNA6
+OX457036.1	gth	gene	55501673	55529957	.	-	.	ID=Q0G8J7_LUMTE High-affinity serotonin transporter protein;gene_id=Q0G8J7_LUMTE High-affinity serotonin transporter protein;transcript_id=Q0G8J7_LUMTE High-affinity serotonin transporter protein
+OX457036.1	gth	mRNA	55501673	55529957	.	-	.	ID=Q0G8J7_LUMTE High-affinity serotonin transporter protein;Parent=Q0G8J7_LUMTE High-affinity serotonin transporter protein;gene_id=Q0G8J7_LUMTE High-affinity serotonin transporter protein;transcript_id=Q0G8J7_LUMTE High-affinity serotonin transporter protein
+OX457036.1	gth	exon	55501673	55501808	.	-	1	ID=exon-14;Parent=Q0G8J7_LUMTE High-affinity serotonin transporter protein;gene_id=Q0G8J7_LUMTE High-affinity serotonin transporter protein;transcript_id=Q0G8J7_LUMTE High-affinity serotonin transporter protein
+OX457036.1	gth	exon	55503248	55503482	.	-	2	ID=exon-15;Parent=Q0G8J7_LUMTE High-affinity serotonin transporter protein;gene_id=Q0G8J7_LUMTE High-affinity serotonin transporter protein;transcript_id=Q0G8J7_LUMTE High-affinity serotonin transporter protein
+OX457036.1	gth	exon	55529789	55529957	.	-	0	ID=exon-16;Parent=Q0G8J7_LUMTE High-affinity serotonin transporter protein;gene_id=Q0G8J7_LUMTE High-affinity serotonin transporter protein;transcript_id=Q0G8J7_LUMTE High-affinity serotonin transporter protein
+OX457036.1	gth	CDS	55501673	55501808	.	-	1	ID=cds-14;Parent=Q0G8J7_LUMTE High-affinity serotonin transporter protein;gene_id=Q0G8J7_LUMTE High-affinity serotonin transporter protein;transcript_id=Q0G8J7_LUMTE High-affinity serotonin transporter protein
+OX457036.1	gth	CDS	55503248	55503482	.	-	2	ID=cds-15;Parent=Q0G8J7_LUMTE High-affinity serotonin transporter protein;gene_id=Q0G8J7_LUMTE High-affinity serotonin transporter protein;transcript_id=Q0G8J7_LUMTE High-affinity serotonin transporter protein
+OX457036.1	gth	CDS	55529789	55529957	.	-	0	ID=cds-16;Parent=Q0G8J7_LUMTE High-affinity serotonin transporter protein;gene_id=Q0G8J7_LUMTE High-affinity serotonin transporter protein;transcript_id=Q0G8J7_LUMTE High-affinity serotonin transporter protein
+OX457036.1	gth	gene	57431403	57470528	.	+	.	ID=OX457036.1_g_gene7_mRNA9;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	mRNA	57431403	57470528	.	+	.	ID=V9GWR0_LUMTE Peroxidasin;Parent=OX457036.1_g_gene7_mRNA9;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	exon	57431403	57431473	.	+	0	ID=exon-17;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	exon	57435004	57435075	.	+	1	ID=exon-18;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	exon	57440690	57440761	.	+	1	ID=exon-19;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	exon	57441466	57441537	.	+	1	ID=exon-20;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	exon	57441978	57442049	.	+	1	ID=exon-21;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	exon	57445543	57445697	.	+	1	ID=exon-22;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	exon	57448377	57448494	.	+	2	ID=exon-23;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	exon	57448968	57449152	.	+	1	ID=exon-24;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	exon	57450198	57450467	.	+	2	ID=exon-25;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	exon	57450782	57450898	.	+	2	ID=exon-26;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	exon	57451643	57451804	.	+	2	ID=exon-27;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	exon	57452188	57452463	.	+	2	ID=exon-28;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	exon	57452994	57453266	.	+	2	ID=exon-29;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	exon	57454110	57454343	.	+	2	ID=exon-30;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	exon	57455056	57455594	.	+	2	ID=exon-31;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	exon	57456172	57456445	.	+	0	ID=exon-32;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	exon	57457574	57458044	.	+	2	ID=exon-33;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	exon	57458498	57458615	.	+	2	ID=exon-34;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	exon	57459718	57459932	.	+	1	ID=exon-35;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	exon	57468146	57468438	.	+	2	ID=exon-36;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	exon	57469067	57469210	.	+	0	ID=exon-37;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	exon	57470433	57470528	.	+	0	ID=exon-38;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	CDS	57431403	57431473	.	+	0	ID=cds-17;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	CDS	57435004	57435075	.	+	1	ID=cds-18;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	CDS	57440690	57440761	.	+	1	ID=cds-19;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	CDS	57441466	57441537	.	+	1	ID=cds-20;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	CDS	57441978	57442049	.	+	1	ID=cds-21;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	CDS	57445543	57445697	.	+	1	ID=cds-22;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	CDS	57448377	57448494	.	+	2	ID=cds-23;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	CDS	57448968	57449152	.	+	1	ID=cds-24;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	CDS	57450198	57450467	.	+	2	ID=cds-25;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	CDS	57450782	57450898	.	+	2	ID=cds-26;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	CDS	57451643	57451804	.	+	2	ID=cds-27;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	CDS	57452188	57452463	.	+	2	ID=cds-28;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	CDS	57452994	57453266	.	+	2	ID=cds-29;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	CDS	57454110	57454343	.	+	2	ID=cds-30;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	CDS	57455056	57455594	.	+	2	ID=cds-31;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	CDS	57456172	57456445	.	+	0	ID=cds-32;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	CDS	57457574	57458044	.	+	2	ID=cds-33;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	CDS	57458498	57458615	.	+	2	ID=cds-34;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	CDS	57459718	57459932	.	+	1	ID=cds-35;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	CDS	57468146	57468438	.	+	2	ID=cds-36;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	CDS	57469067	57469210	.	+	0	ID=cds-37;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	CDS	57470433	57470528	.	+	0	ID=cds-38;Parent=V9GWR0_LUMTE Peroxidasin;gene_id=OX457036.1_g_gene7_mRNA9;transcript_id=V9GWR0_LUMTE Peroxidasin
+OX457036.1	gth	gene	77692874	77696233	.	-	.	ID=P08924|GLB1_LUMTE Extracellular globin-1;gene_id=P08924|GLB1_LUMTE Extracellular globin-1;transcript_id=OX457036.1_t_gene8_mRNA10
+OX457036.1	gth	mRNA	77692874	77696233	.	-	.	ID=OX457036.1_t_gene8_mRNA10;Parent=P08924|GLB1_LUMTE Extracellular globin-1;gene_id=P08924|GLB1_LUMTE Extracellular globin-1;transcript_id=OX457036.1_t_gene8_mRNA10
+OX457036.1	gth	exon	77692874	77692981	.	-	0	ID=exon-39;Parent=OX457036.1_t_gene8_mRNA10;gene_id=P08924|GLB1_LUMTE Extracellular globin-1;transcript_id=OX457036.1_t_gene8_mRNA10
+OX457036.1	gth	exon	77693597	77693810	.	-	1	ID=exon-40;Parent=OX457036.1_t_gene8_mRNA10;gene_id=P08924|GLB1_LUMTE Extracellular globin-1;transcript_id=OX457036.1_t_gene8_mRNA10
+OX457036.1	gth	exon	77696079	77696233	.	-	0	ID=exon-41;Parent=OX457036.1_t_gene8_mRNA10;gene_id=P08924|GLB1_LUMTE Extracellular globin-1;transcript_id=OX457036.1_t_gene8_mRNA10
+OX457036.1	gth	CDS	77692874	77692981	.	-	0	ID=cds-39;Parent=OX457036.1_t_gene8_mRNA10;gene_id=P08924|GLB1_LUMTE Extracellular globin-1;transcript_id=OX457036.1_t_gene8_mRNA10
+OX457036.1	gth	CDS	77693597	77693810	.	-	1	ID=cds-40;Parent=OX457036.1_t_gene8_mRNA10;gene_id=P08924|GLB1_LUMTE Extracellular globin-1;transcript_id=OX457036.1_t_gene8_mRNA10
+OX457036.1	gth	CDS	77696079	77696233	.	-	0	ID=cds-41;Parent=OX457036.1_t_gene8_mRNA10;gene_id=P08924|GLB1_LUMTE Extracellular globin-1;transcript_id=OX457036.1_t_gene8_mRNA10
+OX457036.1	gth	gene	77700925	77703603	.	-	.	ID=Lumbricus terrestris hemoglobin chain d1_mRNA11;gene_id=OX457036.1_g_gene9_mRNA11;transcript_id=OX457036.1_t_gene9_mRNA11
+OX457036.1	gth	mRNA	77700925	77703603	.	-	.	ID=OX457036.1_t_gene9_mRNA11;Parent=OX457036.1_g_gene9_mRNA11;gene_id=OX457036.1_g_gene9_mRNA11;transcript_id=OX457036.1_t_gene9_mRNA11
+OX457036.1	gth	exon	77700925	77701032	.	-	0	ID=exon-42;Parent=OX457036.1_t_gene9_mRNA11;gene_id=OX457036.1_g_gene9_mRNA11;transcript_id=OX457036.1_t_gene9_mRNA11
+OX457036.1	gth	exon	77701850	77702063	.	-	1	ID=exon-43;Parent=OX457036.1_t_gene9_mRNA11;gene_id=OX457036.1_g_gene9_mRNA11;transcript_id=OX457036.1_t_gene9_mRNA11
+OX457036.1	gth	exon	77703449	77703603	.	-	0	ID=exon-44;Parent=OX457036.1_t_gene9_mRNA11;gene_id=OX457036.1_g_gene9_mRNA11;transcript_id=OX457036.1_t_gene9_mRNA11
+OX457036.1	gth	CDS	77700925	77701032	.	-	0	ID=cds-42;Parent=OX457036.1_t_gene9_mRNA11;gene_id=OX457036.1_g_gene9_mRNA11;transcript_id=OX457036.1_t_gene9_mRNA11
+OX457036.1	gth	CDS	77701850	77702063	.	-	1	ID=cds-43;Parent=OX457036.1_t_gene9_mRNA11;gene_id=OX457036.1_g_gene9_mRNA11;transcript_id=OX457036.1_t_gene9_mRNA11
+OX457036.1	gth	CDS	77703449	77703603	.	-	0	ID=cds-44;Parent=OX457036.1_t_gene9_mRNA11;gene_id=OX457036.1_g_gene9_mRNA11;transcript_id=Lumbricus terrestris hemoglobin chain d1_mRNA1
+OX457036.1	gth	gene	87077320	87079195	.	-	.	ID=OX457036.1_g_gene10_mRNA12;gene_id=OX457036.1_g_gene10_mRNA12;transcript_id=OX457036.1_t_gene10_mRNA12
+OX457036.1	gth	mRNA	87077320	87079195	.	-	.	ID=OX457036.1_t_gene10_mRNA12;Parent=OX457036.1_g_gene10_mRNA12;gene_id=OX457036.1_g_gene10_mRNA12;transcript_id=OX457036.1_t_gene10_mRNA12
+OX457036.1	gth	exon	87077320	87078084	.	-	0	ID=exon-45;Parent=OX457036.1_t_gene10_mRNA12;gene_id=OX457036.1_g_gene10_mRNA12;transcript_id=OX457036.1_t_gene10_mRNA12
+OX457036.1	gth	exon	87078460	87078699	.	-	0	ID=exon-46;Parent=OX457036.1_t_gene10_mRNA12;gene_id=OX457036.1_g_gene10_mRNA12;transcript_id=OX457036.1_t_gene10_mRNA12
+OX457036.1	gth	exon	87079070	87079195	.	-	0	ID=exon-47;Parent=OX457036.1_t_gene10_mRNA12;gene_id=OX457036.1_g_gene10_mRNA12;transcript_id=OX457036.1_t_gene10_mRNA12
+OX457036.1	gth	CDS	87077320	87078084	.	-	0	ID=cds-45;Parent=OX457036.1_t_gene10_mRNA12;gene_id=OX457036.1_g_gene10_mRNA12;transcript_id=OX457036.1_t_gene10_mRNA12
+OX457036.1	gth	CDS	87078460	87078699	.	-	0	ID=cds-46;Parent=OX457036.1_t_gene10_mRNA12;gene_id=OX457036.1_g_gene10_mRNA12;transcript_id=OX457036.1_t_gene10_mRNA12
+OX457036.1	gth	CDS	87079070	87079195	.	-	0	ID=cds-47;Parent=OX457036.1_t_gene10_mRNA12;gene_id=OX457036.1_g_gene10_mRNA12;transcript_id=OX457036.1_t_gene10_mRNA12
+OX457036.1	gth	gene	87112684	87114691	.	-	.	ID=OX457036.1_g_gene11_mRNA13;gene_id=OX457036.1_g_gene11_mRNA13;transcript_id=OX457036.1_t_gene11_mRNA13
+OX457036.1	gth	mRNA	87112684	87114691	.	-	.	ID=OX457036.1_t_gene11_mRNA13;Parent=OX457036.1_g_gene11_mRNA13;gene_id=OX457036.1_g_gene11_mRNA13;transcript_id=OX457036.1_t_gene11_mRNA13
+OX457036.1	gth	exon	87112684	87113448	.	-	0	ID=exon-48;Parent=OX457036.1_t_gene11_mRNA13;gene_id=OX457036.1_g_gene11_mRNA13;transcript_id=OX457036.1_t_gene11_mRNA13
+OX457036.1	gth	exon	87113974	87114213	.	-	0	ID=exon-49;Parent=OX457036.1_t_gene11_mRNA13;gene_id=OX457036.1_g_gene11_mRNA13;transcript_id=OX457036.1_t_gene11_mRNA13
+OX457036.1	gth	exon	87114566	87114691	.	-	0	ID=exon-50;Parent=OX457036.1_t_gene11_mRNA13;gene_id=OX457036.1_g_gene11_mRNA13;transcript_id=OX457036.1_t_gene11_mRNA13
+OX457036.1	gth	CDS	87112684	87113448	.	-	0	ID=cds-48;Parent=OX457036.1_t_gene11_mRNA13;gene_id=OX457036.1_g_gene11_mRNA13;transcript_id=OX457036.1_t_gene11_mRNA13
+OX457036.1	gth	CDS	87113974	87114213	.	-	0	ID=cds-49;Parent=OX457036.1_t_gene11_mRNA13;gene_id=OX457036.1_g_gene11_mRNA13;transcript_id=OX457036.1_t_gene11_mRNA13
+OX457036.1	gth	CDS	87114566	87114691	.	-	0	ID=cds-50;Parent=OX457036.1_t_gene11_mRNA13;gene_id=OX457036.1_g_gene11_mRNA13;transcript_id=OX457036.1_t_gene11_mRNA13
+OX457036.1	gth	gene	88668930	88670992	.	+	.	ID=OX457036.1_g_gene12_mRNA14;gene_id=OX457036.1_g_gene12_mRNA14;transcript_id=OX457036.1_t_gene12_mRNA14
+OX457036.1	gth	mRNA	88668930	88670992	.	+	.	ID=OX457036.1_t_gene12_mRNA14;Parent=OX457036.1_g_gene12_mRNA14;gene_id=OX457036.1_g_gene12_mRNA14;transcript_id=OX457036.1_t_gene12_mRNA14
+OX457036.1	gth	exon	88668930	88669055	.	+	0	ID=exon-51;Parent=OX457036.1_t_gene12_mRNA14;gene_id=OX457036.1_g_gene12_mRNA14;transcript_id=OX457036.1_t_gene12_mRNA14
+OX457036.1	gth	exon	88669236	88669475	.	+	0	ID=exon-52;Parent=OX457036.1_t_gene12_mRNA14;gene_id=OX457036.1_g_gene12_mRNA14;transcript_id=OX457036.1_t_gene12_mRNA14
+OX457036.1	gth	exon	88670228	88670992	.	+	0	ID=exon-53;Parent=OX457036.1_t_gene12_mRNA14;gene_id=OX457036.1_g_gene12_mRNA14;transcript_id=OX457036.1_t_gene12_mRNA14
+OX457036.1	gth	CDS	88668930	88669055	.	+	0	ID=cds-51;Parent=OX457036.1_t_gene12_mRNA14;gene_id=OX457036.1_g_gene12_mRNA14;transcript_id=OX457036.1_t_gene12_mRNA14
+OX457036.1	gth	CDS	88669236	88669475	.	+	0	ID=cds-52;Parent=OX457036.1_t_gene12_mRNA14;gene_id=OX457036.1_g_gene12_mRNA14;transcript_id=OX457036.1_t_gene12_mRNA14
+OX457036.1	gth	CDS	88670228	88670992	.	+	0	ID=cds-53;Parent=OX457036.1_t_gene12_mRNA14;gene_id=OX457036.1_g_gene12_mRNA14;transcript_id=OX457036.1_t_gene12_mRNA14
