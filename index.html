@@ -12,44 +12,14 @@
 <body>
 
 
+
 <div id="igvDiv" style="padding-top: 20px;padding-bottom: 20px; height: auto"></div>
 
-<h2></h2>
-
-<div id="igvDiv2" style="padding-top: 20px;padding-bottom: 20px; height: auto">
-
-<h4>Embeddable genomic visualization component based on the Integrative Genomics Viewer </h4>
-
-<p>Track1 : rna-seq (transcripts&exons)</p>
-
-<p>Track2 : junctions</p>
-
-<p>Track3 : protocol1 Augustus</p>
-
-<p>Track4 : protocol2 Augustus</p>
-
-<p>Track5 : protein Hints</p>
-
-<p> To find the coordinates, type the genome coordinates into the search box </p>
-<p>Zoom in to view the nucleotide sequence clearly. </p>
 
 
-</div>
-
-
-
+<div id="igvDiv2" style="padding-top: 20px;padding-bottom: 20px; height: auto"></div>
 
 <script type="module">
-
-
-// https://genome321.s3.amazonaws.com/protocol1OX457036.gff
-// https://genome321.s3.amazonaws.com/protocol2OX457036.gff
-// https://genome321.s3.amazonaws.com/hintshOX457036.gtf
-// https://genome321.s3.amazonaws.com/transcriptsOX457036.gtf
-
-//https://genome321.s3.amazonaws.com/junctions.bed
-//https://genome321.s3.amazonaws.com/transcripts.gff3
-
 
     import igv from "https://genome321.s3.amazonaws.com/igv.esm.min.js"
 
@@ -57,92 +27,111 @@
     const options =
         {
             reference: {
-                "id": "wclumterr",
-                "name": "lumbricus terrestris",
-                "fastaURL": "https://genome321.s3.amazonaws.com/sequence.fasta",
-                "indexURL": "https://genome321.s3.amazonaws.com/sequence.fasta.fai",
-                "cytobandURL": "https://genome321.s3.amazonaws.com/cytoBand.txt"
+                "id": "wcLumTerr1.1",
+                "name": "Lumbricus_terrestris",
+                "fastaURL": "https://genome321.s3.amazonaws.com/Lumbricus_terrestris-GCA_949752735.1-softmasked.fa",
+                "indexURL": "https://genome321.s3.amazonaws.com/Lumbricus_terrestris-GCA_949752735.1-softmasked.fa.fai",
+                "cytobandURL": "https://genome321.s3.amazonaws.com/cytoBand_lumterr.txt"
             },
-            locus: "OX457036.1:51,512,582-51,530,885",
+			
+            locus: "chr1:63,712,533-64,693,448",
+			
             tracks: [
-                {
-					name: 'rna-seq',
-					url: 'https://genome321.s3.amazonaws.com/transcripts.gff3',
+			
+			    {
+				name: 'rna-seq',
+				url: 'https://genome321.s3.amazonaws.com/transcripts.OX457036.1.gtf',
 					//color: '#03A9F4',
-					color:'navy',
-					type: 'annotation',
-					format: 'gff3'
+				color:'navy',
+				type: 'annotation',
+				format: 'gff3'
                 },
-				{
-					url: 'https://genome321.s3.amazonaws.com/junctionsLumTerr.bed', 
-					type: 'junction',
-					name: 'Junctions',
-					format: 'bed',
-					displayMode: 'COLLAPSED',
-					minUniquelyMappedReads: 1,
-					minTotalReads: 1,
-					maxFractionMultiMappedReads: 1,
-					minSplicedAlignmentOverhang: 0,
-					colorBy: 'isAnnotatedJunction'					
+ 				{
+				   
+                    url: "https://genome321.s3.amazonaws.com/helixer-chr1.gff3",
+                    type: "annotation",
+                    format: "gff3",                 
+                    name:"gff3 annotation",
+                    color: "#A9A9A9"
+					
 				},
 				
 				{
-					name: 'protocol1',
-					url: 'https://genome321.s3.amazonaws.com/protocol1OX457036.gff',            
-					format: 'gff3',
-					colorBy: "biotype",
-					colorTable: {
-					"antisense": "blueviolet",
-					"protein_coding": "blue",
-					"processed_transcript": "purple",
-					"processed_pseudogene": "#7fff00",
-					 "*": "DimGray",
-					 "unprocessed_pseudogene": "#d2691e" }
-				},
-				{
-					name: "Protocol2",
-					format: "gff3",
-					displayMode: "expanded",
-					height: 100,
-					url: 'https://genome321.s3.amazonaws.com/protocol2OX457036.gff',                
-					visibilityWindow: 1000000,
-					colorBy: "biotype",
-					// Uncomment to explicitly set a colorTable
-					colorTable: {
-					"antisense": "blueviolet",
-					"protein_coding": "blue",
-					"retained_intron": "rgb(0, 150, 150)",
-					"processed_transcript": "purple",
-					"processed_pseudogene": "#7fff00",
-					"unprocessed_pseudogene": "#d2691e",
-					"*": "black"}				
-				
-				},		
-				
-				{
-					name: "Hintsp",
-					format: "gff3",
-					displayMode: "expanded",
-					height: 100,
-					url: 'https://genome321.s3.amazonaws.com/hintp.gff3',                
-					visibilityWindow: 1000000,					
-					colorBy: "REGIONID",
-					// Uncomment to explicitly set a colorTable
-					colorTable: {
-					"antisense": "blueviolet",
-					"protein_coding": "blue",
-					"retained_intron": "rgb(0, 150, 150)",
-					"processed_transcript": "purple",
-					"processed_pseudogene": "#7fff00",
-					"unprocessed_pseudogene": "#d2691e",
-					"*": "red"}				
-				},
+				   
+                    url: "https://genome321.s3.amazonaws.com/proteome.chr1.lumterr.gff",
+                    type: "annotation",
+                    format: "gff3",                 
+                    name:"proteome",
+                    color: "red"
+					
+				},				
+ 
 
             ]
         }
 
     igv.createBrowser(document.getElementById("igvDiv"), options)
 
+    // UCSC interact format examples
+    const options2 =
+        {
+            
+			reference:{
+			
+				"id": "LumRube",
+				"name": "Lumbricus_rubellus",
+				"fastaURL": "https://genome321.s3.amazonaws.com/Lumbricus_rubellus-GCA_945859605.1-softmasked.fa",
+				"indexURL": "https://genome321.s3.amazonaws.com/Lumbricus_rubellus-GCA_945859605.1-softmasked.fa.fai",
+				"cytobandURL": "https://genome321.s3.amazonaws.com/cytoBand_lumrube.txt"
+				
+				
+			
+			},
+			
+            locus: "chr1:63,712,533-64,693,448",
+			
+            tracks: [
+                {
+                    url: "https://genome321.s3.amazonaws.com/transcripts_chr1-OX243811.1.gff",
+                    name: "rna-seq",
+					color:'navy',
+					type: 'annotation',
+					format: 'gff3'
+
+                },
+                {
+				   
+                    url: "https://genome321.s3.amazonaws.com/lumrube.chr1.gff3",
+                    type: "annotation",
+                    format: "gff3",                 
+                    name:"augustus",
+                    color: "gray"
+					
+				},
+				
+				{
+				   
+                    url: "https://genome321.s3.amazonaws.com/helixer-chr1.gff3",
+                    type: "annotation",
+                    format: "gff3",                 
+                    name:"helixer",
+                    color: "#A9A9A9"
+					
+				},
+								{
+				   
+                    url: "https://genome321.s3.amazonaws.com/algn.chr1.gff3",
+                    type: "annotation",
+                    format: "gff3",                 
+                    name:"proteome",
+                    color: "red"
+					
+				},
+
+            ]
+        }
+
+    igv.createBrowser(document.getElementById("igvDiv2"), options2)
 
 
 </script>
