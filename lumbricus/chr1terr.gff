@@ -1,0 +1,184 @@
+##gff-version 3
+chr1	GenomeThreaderprot	transcript	4635323	4635397	0.878	-	.	transcript=tr;Note=tr;ID=tr|Q8MWU7|Q8MWU7_9ANNE Hox01 (Fragment) OS=Eisenia andrei OX=168636 PE=4 SV=1
+chr1	GenomeThreaderprot	exon	4635323	4635397	0.878	-	.	transcript=tr;Note=tr;ID=tr|Q8MWU7|Q8MWU7_9ANNE Hox01 (Fragment) OS=Eisenia andrei OX=168636 PE=4 SV=1.exon1
+chr1	GenomeThreaderprot	transcript	4635323	4635397	1.000	-	.	transcript=tr;Note=tr;ID=tr|Q8MWT4|Q8MWT4_9ANNE Hox14 (Fragment) OS=Eisenia andrei OX=168636 PE=4 SV=1
+chr1	GenomeThreaderprot	exon	4635323	4635397	1.000	-	.	transcript=tr;Note=tr;ID=tr|Q8MWT4|Q8MWT4_9ANNE Hox14 (Fragment) OS=Eisenia andrei OX=168636 PE=4 SV=1.exon1
+chr1	GenomeThreaderprot	transcript	19842078	19846783	0.901	-	.	transcript=tr;Note=tr;ID=tr|A0A088BZ25|A0A088BZ25_EISFE 26S proteasome non-ATPase regulatory subunit 4 (Fragment) OS=Eisenia fetida OX=6396 PE=2 SV=1
+chr1	GenomeThreaderprot	exon	19846632	19846783	0.849	-	.	transcript=tr;Note=tr;ID=tr|A0A088BZ25|A0A088BZ25_EISFE 26S proteasome non-ATPase regulatory subunit 4 (Fragment) OS=Eisenia fetida OX=6396 PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	exon	19845867	19845981	0.972	-	.	transcript=tr;Note=tr;ID=tr|A0A088BZ25|A0A088BZ25_EISFE 26S proteasome non-ATPase regulatory subunit 4 (Fragment) OS=Eisenia fetida OX=6396 PE=2 SV=1.exon2
+chr1	GenomeThreaderprot	exon	19845088	19845174	0.942	-	.	transcript=tr;Note=tr;ID=tr|A0A088BZ25|A0A088BZ25_EISFE 26S proteasome non-ATPase regulatory subunit 4 (Fragment) OS=Eisenia fetida OX=6396 PE=2 SV=1.exon3
+chr1	GenomeThreaderprot	exon	19844720	19844788	1.000	-	.	transcript=tr;Note=tr;ID=tr|A0A088BZ25|A0A088BZ25_EISFE 26S proteasome non-ATPase regulatory subunit 4 (Fragment) OS=Eisenia fetida OX=6396 PE=2 SV=1.exon4
+chr1	GenomeThreaderprot	exon	19844064	19844125	0.864	-	.	transcript=tr;Note=tr;ID=tr|A0A088BZ25|A0A088BZ25_EISFE 26S proteasome non-ATPase regulatory subunit 4 (Fragment) OS=Eisenia fetida OX=6396 PE=2 SV=1.exon5
+chr1	GenomeThreaderprot	exon	19843465	19843612	0.949	-	.	transcript=tr;Note=tr;ID=tr|A0A088BZ25|A0A088BZ25_EISFE 26S proteasome non-ATPase regulatory subunit 4 (Fragment) OS=Eisenia fetida OX=6396 PE=2 SV=1.exon6
+chr1	GenomeThreaderprot	exon	19842833	19842938	0.809	-	.	transcript=tr;Note=tr;ID=tr|A0A088BZ25|A0A088BZ25_EISFE 26S proteasome non-ATPase regulatory subunit 4 (Fragment) OS=Eisenia fetida OX=6396 PE=2 SV=1.exon7
+chr1	GenomeThreaderprot	exon	19842078	19842163	0.812	-	.	transcript=tr;Note=tr;ID=tr|A0A088BZ25|A0A088BZ25_EISFE 26S proteasome non-ATPase regulatory subunit 4 (Fragment) OS=Eisenia fetida OX=6396 PE=2 SV=1.exon8
+chr1	GenomeThreaderprot	transcript	23684137	23688585	0.948	-	.	transcript=tr;Note=tr;ID=tr|G3LY18|G3LY18_EISFE Superoxide dismutase [Cu-Zn] OS=Eisenia fetida OX=6396 PE=2 SV=1
+chr1	GenomeThreaderprot	exon	23688514	23688585	0.900	-	.	transcript=tr;Note=tr;ID=tr|G3LY18|G3LY18_EISFE Superoxide dismutase [Cu-Zn] OS=Eisenia fetida OX=6396 PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	exon	23686771	23686867	0.972	-	.	transcript=tr;Note=tr;ID=tr|G3LY18|G3LY18_EISFE Superoxide dismutase [Cu-Zn] OS=Eisenia fetida OX=6396 PE=2 SV=1.exon2
+chr1	GenomeThreaderprot	exon	23686203	23686272	0.945	-	.	transcript=tr;Note=tr;ID=tr|G3LY18|G3LY18_EISFE Superoxide dismutase [Cu-Zn] OS=Eisenia fetida OX=6396 PE=2 SV=1.exon3
+chr1	GenomeThreaderprot	exon	23685071	23685188	0.947	-	.	transcript=tr;Note=tr;ID=tr|G3LY18|G3LY18_EISFE Superoxide dismutase [Cu-Zn] OS=Eisenia fetida OX=6396 PE=2 SV=1.exon4
+chr1	GenomeThreaderprot	exon	23684137	23684244	0.966	-	.	transcript=tr;Note=tr;ID=tr|G3LY18|G3LY18_EISFE Superoxide dismutase [Cu-Zn] OS=Eisenia fetida OX=6396 PE=2 SV=1.exon5
+chr1	GenomeThreaderprot	transcript	23684137	23688585	0.961	-	.	transcript=tr;Note=tr;ID=tr|A0A0M5M0K4|A0A0M5M0K4_9ANNE Superoxide dismutase [Cu-Zn] OS=Eisenia andrei OX=168636 GN=CuZnSOD PE=2 SV=1
+chr1	GenomeThreaderprot	exon	23688514	23688585	0.943	-	.	transcript=tr;Note=tr;ID=tr|A0A0M5M0K4|A0A0M5M0K4_9ANNE Superoxide dismutase [Cu-Zn] OS=Eisenia andrei OX=168636 GN=CuZnSOD PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	exon	23686771	23686867	0.972	-	.	transcript=tr;Note=tr;ID=tr|A0A0M5M0K4|A0A0M5M0K4_9ANNE Superoxide dismutase [Cu-Zn] OS=Eisenia andrei OX=168636 GN=CuZnSOD PE=2 SV=1.exon2
+chr1	GenomeThreaderprot	exon	23686203	23686272	0.945	-	.	transcript=tr;Note=tr;ID=tr|A0A0M5M0K4|A0A0M5M0K4_9ANNE Superoxide dismutase [Cu-Zn] OS=Eisenia andrei OX=168636 GN=CuZnSOD PE=2 SV=1.exon3
+chr1	GenomeThreaderprot	exon	23685071	23685188	0.970	-	.	transcript=tr;Note=tr;ID=tr|A0A0M5M0K4|A0A0M5M0K4_9ANNE Superoxide dismutase [Cu-Zn] OS=Eisenia andrei OX=168636 GN=CuZnSOD PE=2 SV=1.exon4
+chr1	GenomeThreaderprot	exon	23684137	23684244	0.966	-	.	transcript=tr;Note=tr;ID=tr|A0A0M5M0K4|A0A0M5M0K4_9ANNE Superoxide dismutase [Cu-Zn] OS=Eisenia andrei OX=168636 GN=CuZnSOD PE=2 SV=1.exon5
+chr1	GenomeThreaderprot	transcript	23684137	23688585	0.961	-	.	transcript=tr;Note=tr;ID=tr|A0A2I7YV68|A0A2I7YV68_EISFE Superoxide dismutase [Cu-Zn] OS=Eisenia fetida OX=6396 PE=2 SV=1
+chr1	GenomeThreaderprot	exon	23688514	23688585	0.943	-	.	transcript=tr;Note=tr;ID=tr|A0A2I7YV68|A0A2I7YV68_EISFE Superoxide dismutase [Cu-Zn] OS=Eisenia fetida OX=6396 PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	exon	23686771	23686867	0.972	-	.	transcript=tr;Note=tr;ID=tr|A0A2I7YV68|A0A2I7YV68_EISFE Superoxide dismutase [Cu-Zn] OS=Eisenia fetida OX=6396 PE=2 SV=1.exon2
+chr1	GenomeThreaderprot	exon	23686203	23686272	0.945	-	.	transcript=tr;Note=tr;ID=tr|A0A2I7YV68|A0A2I7YV68_EISFE Superoxide dismutase [Cu-Zn] OS=Eisenia fetida OX=6396 PE=2 SV=1.exon3
+chr1	GenomeThreaderprot	exon	23685071	23685188	0.970	-	.	transcript=tr;Note=tr;ID=tr|A0A2I7YV68|A0A2I7YV68_EISFE Superoxide dismutase [Cu-Zn] OS=Eisenia fetida OX=6396 PE=2 SV=1.exon4
+chr1	GenomeThreaderprot	exon	23684137	23684244	0.966	-	.	transcript=tr;Note=tr;ID=tr|A0A2I7YV68|A0A2I7YV68_EISFE Superoxide dismutase [Cu-Zn] OS=Eisenia fetida OX=6396 PE=2 SV=1.exon5
+chr1	GenomeThreaderprot	transcript	23684170	23686325	0.849	-	.	transcript=tr;Note=tr;ID=tr|B9TY06|B9TY06_LUMTE Superoxide dismutase (Fragment) OS=Lumbricus terrestris OX=6398 PE=2 SV=1
+chr1	GenomeThreaderprot	exon	23686203	23686325	0.629	-	.	transcript=tr;Note=tr;ID=tr|B9TY06|B9TY06_LUMTE Superoxide dismutase (Fragment) OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	exon	23685071	23685188	1.000	-	.	transcript=tr;Note=tr;ID=tr|B9TY06|B9TY06_LUMTE Superoxide dismutase (Fragment) OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon2
+chr1	GenomeThreaderprot	exon	23684170	23684244	0.905	-	.	transcript=tr;Note=tr;ID=tr|B9TY06|B9TY06_LUMTE Superoxide dismutase (Fragment) OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon3
+chr1	GenomeThreaderprot	transcript	37878320	37880718	0.874	+	.	transcript=tr;Note=tr;ID=tr|Q9BRL5|Q9BRL5_HUMAN CALM3 protein OS=Homo sapiens OX=9606 PE=2 SV=1
+chr1	GenomeThreaderprot	exon	37878320	37878496	0.788	+	.	transcript=tr;Note=tr;ID=tr|Q9BRL5|Q9BRL5_HUMAN CALM3 protein OS=Homo sapiens OX=9606 PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	exon	37880237	37880421	0.952	+	.	transcript=tr;Note=tr;ID=tr|Q9BRL5|Q9BRL5_HUMAN CALM3 protein OS=Homo sapiens OX=9606 PE=2 SV=1.exon2
+chr1	GenomeThreaderprot	exon	37880690	37880718	0.281	+	.	transcript=tr;Note=tr;ID=tr|Q9BRL5|Q9BRL5_HUMAN CALM3 protein OS=Homo sapiens OX=9606 PE=2 SV=1.exon3
+chr1	GenomeThreaderprot	transcript	37878320	37880676	0.918	+	.	transcript=sp;Note=sp;ID=sp|Q9GRJ1|CALM_LUMRU Calmodulin OS=Lumbricus rubellus OX=35632 PE=2 SV=3
+chr1	GenomeThreaderprot	exon	37878320	37878496	0.788	+	.	transcript=sp;Note=sp;ID=sp|Q9GRJ1|CALM_LUMRU Calmodulin OS=Lumbricus rubellus OX=35632 PE=2 SV=3.exon1
+chr1	GenomeThreaderprot	exon	37880237	37880479	1.000	+	.	transcript=sp;Note=sp;ID=sp|Q9GRJ1|CALM_LUMRU Calmodulin OS=Lumbricus rubellus OX=35632 PE=2 SV=3.exon2
+chr1	GenomeThreaderprot	exon	37880647	37880676	0.478	+	.	transcript=sp;Note=sp;ID=sp|Q9GRJ1|CALM_LUMRU Calmodulin OS=Lumbricus rubellus OX=35632 PE=2 SV=3.exon3
+chr1	GenomeThreaderprot	transcript	37880200	37880445	0.847	+	.	transcript=tr;Note=tr;ID=tr|Q2I6A7|Q2I6A7_EISFE Calmodulin (Fragment) OS=Eisenia fetida OX=6396 PE=2 SV=1
+chr1	GenomeThreaderprot	exon	37880200	37880445	0.847	+	.	transcript=tr;Note=tr;ID=tr|Q2I6A7|Q2I6A7_EISFE Calmodulin (Fragment) OS=Eisenia fetida OX=6396 PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	transcript	39296946	39299658	0.935	+	.	transcript=tr;Note=tr;ID=tr|V9VGQ0|V9VGQ0_LUMRU glutathione gamma-glutamylcysteinyltransferase OS=Lumbricus rubellus OX=35632 GN=pcs-1a PE=4 SV=1
+chr1	GenomeThreaderprot	exon	39296946	39297094	0.870	+	.	transcript=tr;Note=tr;ID=tr|V9VGQ0|V9VGQ0_LUMRU glutathione gamma-glutamylcysteinyltransferase OS=Lumbricus rubellus OX=35632 GN=pcs-1a PE=4 SV=1.exon1
+chr1	GenomeThreaderprot	exon	39297145	39297834	0.933	+	.	transcript=tr;Note=tr;ID=tr|V9VGQ0|V9VGQ0_LUMRU glutathione gamma-glutamylcysteinyltransferase OS=Lumbricus rubellus OX=35632 GN=pcs-1a PE=4 SV=1.exon2
+chr1	GenomeThreaderprot	exon	39298904	39299658	0.956	+	.	transcript=tr;Note=tr;ID=tr|V9VGQ0|V9VGQ0_LUMRU glutathione gamma-glutamylcysteinyltransferase OS=Lumbricus rubellus OX=35632 GN=pcs-1a PE=4 SV=1.exon3
+chr1	GenomeThreaderprot	transcript	44647516	44649903	0.918	+	.	transcript=tr;Note=tr;ID=tr|A0A287AVS8|A0A287AVS8_PIG Actin, aortic smooth muscle OS=Sus scrofa OX=9823 GN=ACTA2 PE=3 SV=3
+chr1	GenomeThreaderprot	exon	44647516	44647647	0.888	+	.	transcript=tr;Note=tr;ID=tr|A0A287AVS8|A0A287AVS8_PIG Actin, aortic smooth muscle OS=Sus scrofa OX=9823 GN=ACTA2 PE=3 SV=3.exon1
+chr1	GenomeThreaderprot	exon	44648902	44649785	0.945	+	.	transcript=tr;Note=tr;ID=tr|A0A287AVS8|A0A287AVS8_PIG Actin, aortic smooth muscle OS=Sus scrofa OX=9823 GN=ACTA2 PE=3 SV=3.exon2
+chr1	GenomeThreaderprot	exon	44649837	44649903	0.694	+	.	transcript=tr;Note=tr;ID=tr|A0A287AVS8|A0A287AVS8_PIG Actin, aortic smooth muscle OS=Sus scrofa OX=9823 GN=ACTA2 PE=3 SV=3.exon3
+chr1	GenomeThreaderprot	transcript	44647522	44649903	0.962	+	.	transcript=sp;Note=sp;ID=sp|P92182|ACT1_LUMTE Actin-1 OS=Lumbricus terrestris OX=6398 GN=ACT1 PE=2 SV=1
+chr1	GenomeThreaderprot	exon	44647522	44647647	0.878	+	.	transcript=sp;Note=sp;ID=sp|P92182|ACT1_LUMTE Actin-1 OS=Lumbricus terrestris OX=6398 GN=ACT1 PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	exon	44648902	44649903	0.973	+	.	transcript=sp;Note=sp;ID=sp|P92182|ACT1_LUMTE Actin-1 OS=Lumbricus terrestris OX=6398 GN=ACT1 PE=2 SV=1.exon2
+chr1	GenomeThreaderprot	transcript	44647522	44649903	0.972	+	.	transcript=sp;Note=sp;ID=sp|P92176|ACT2_LUMTE Actin-2 OS=Lumbricus terrestris OX=6398 GN=ACT2 PE=2 SV=1
+chr1	GenomeThreaderprot	exon	44647522	44647647	0.894	+	.	transcript=sp;Note=sp;ID=sp|P92176|ACT2_LUMTE Actin-2 OS=Lumbricus terrestris OX=6398 GN=ACT2 PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	exon	44648902	44649903	0.981	+	.	transcript=sp;Note=sp;ID=sp|P92176|ACT2_LUMTE Actin-2 OS=Lumbricus terrestris OX=6398 GN=ACT2 PE=2 SV=1.exon2
+chr1	GenomeThreaderprot	transcript	44647522	44649903	0.975	+	.	transcript=tr;Note=tr;ID=tr|A0A2I7YV73|A0A2I7YV73_EISFE Actin OS=Eisenia fetida OX=6396 PE=2 SV=1
+chr1	GenomeThreaderprot	exon	44647522	44647647	0.878	+	.	transcript=tr;Note=tr;ID=tr|A0A2I7YV73|A0A2I7YV73_EISFE Actin OS=Eisenia fetida OX=6396 PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	exon	44648902	44649903	0.988	+	.	transcript=tr;Note=tr;ID=tr|A0A2I7YV73|A0A2I7YV73_EISFE Actin OS=Eisenia fetida OX=6396 PE=2 SV=1.exon2
+chr1	GenomeThreaderprot	transcript	44647534	44649903	0.970	+	.	transcript=sp;Note=sp;ID=sp|P91754|ACT_LUMRU Actin (Fragment) OS=Lumbricus rubellus OX=35632 PE=2 SV=1
+chr1	GenomeThreaderprot	exon	44647534	44647647	0.963	+	.	transcript=sp;Note=sp;ID=sp|P91754|ACT_LUMRU Actin (Fragment) OS=Lumbricus rubellus OX=35632 PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	exon	44648902	44649903	0.971	+	.	transcript=sp;Note=sp;ID=sp|P91754|ACT_LUMRU Actin (Fragment) OS=Lumbricus rubellus OX=35632 PE=2 SV=1.exon2
+chr1	GenomeThreaderprot	transcript	44649061	44649654	0.973	+	.	transcript=tr;Note=tr;ID=tr|E9KJS6|E9KJS6_9ANNE Beta-actin (Fragment) OS=Lumbricus friendi OX=947006 PE=2 SV=1
+chr1	GenomeThreaderprot	exon	44649061	44649654	0.973	+	.	transcript=tr;Note=tr;ID=tr|E9KJS6|E9KJS6_9ANNE Beta-actin (Fragment) OS=Lumbricus friendi OX=947006 PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	transcript	51521591	51524945	0.997	+	.	transcript=tr;Note=tr;ID=tr|Q2I743|Q2I743_LUMTE Extracellular hemoglobin linker L2 subunit OS=Lumbricus terrestris OX=6398 PE=1 SV=1
+chr1	GenomeThreaderprot	exon	51521591	51521876	0.991	+	.	transcript=tr;Note=tr;ID=tr|Q2I743|Q2I743_LUMTE Extracellular hemoglobin linker L2 subunit OS=Lumbricus terrestris OX=6398 PE=1 SV=1.exon1
+chr1	GenomeThreaderprot	exon	51522718	51522846	1.000	+	.	transcript=tr;Note=tr;ID=tr|Q2I743|Q2I743_LUMTE Extracellular hemoglobin linker L2 subunit OS=Lumbricus terrestris OX=6398 PE=1 SV=1.exon2
+chr1	GenomeThreaderprot	exon	51523794	51523972	1.000	+	.	transcript=tr;Note=tr;ID=tr|Q2I743|Q2I743_LUMTE Extracellular hemoglobin linker L2 subunit OS=Lumbricus terrestris OX=6398 PE=1 SV=1.exon3
+chr1	GenomeThreaderprot	exon	51524676	51524945	1.000	+	.	transcript=tr;Note=tr;ID=tr|Q2I743|Q2I743_LUMTE Extracellular hemoglobin linker L2 subunit OS=Lumbricus terrestris OX=6398 PE=1 SV=1.exon4
+chr1	GenomeThreaderprot	transcript	51535969	51539680	0.990	+	.	transcript=tr;Note=tr;ID=tr|Q2I742|Q2I742_LUMTE Extracellular hemoglobin linker L3 subunit OS=Lumbricus terrestris OX=6398 PE=1 SV=1
+chr1	GenomeThreaderprot	exon	51535969	51536197	0.981	+	.	transcript=tr;Note=tr;ID=tr|Q2I742|Q2I742_LUMTE Extracellular hemoglobin linker L3 subunit OS=Lumbricus terrestris OX=6398 PE=1 SV=1.exon1
+chr1	GenomeThreaderprot	exon	51537632	51537751	1.000	+	.	transcript=tr;Note=tr;ID=tr|Q2I742|Q2I742_LUMTE Extracellular hemoglobin linker L3 subunit OS=Lumbricus terrestris OX=6398 PE=1 SV=1.exon2
+chr1	GenomeThreaderprot	exon	51538288	51538421	0.981	+	.	transcript=tr;Note=tr;ID=tr|Q2I742|Q2I742_LUMTE Extracellular hemoglobin linker L3 subunit OS=Lumbricus terrestris OX=6398 PE=1 SV=1.exon3
+chr1	GenomeThreaderprot	exon	51539444	51539680	1.000	+	.	transcript=tr;Note=tr;ID=tr|Q2I742|Q2I742_LUMTE Extracellular hemoglobin linker L3 subunit OS=Lumbricus terrestris OX=6398 PE=1 SV=1.exon4
+chr1	GenomeThreaderprot	transcript	51536029	51539674	0.978	+	.	transcript=tr;Note=tr;ID=tr|Q9TXF2|Q9TXF2_LUMTE L3 extracellular hemoglobin linker chain (Fragment) OS=Lumbricus terrestris OX=6398 PE=4 SV=1
+chr1	GenomeThreaderprot	exon	51536029	51536197	0.984	+	.	transcript=tr;Note=tr;ID=tr|Q9TXF2|Q9TXF2_LUMTE L3 extracellular hemoglobin linker chain (Fragment) OS=Lumbricus terrestris OX=6398 PE=4 SV=1.exon1
+chr1	GenomeThreaderprot	exon	51537632	51537751	1.000	+	.	transcript=tr;Note=tr;ID=tr|Q9TXF2|Q9TXF2_LUMTE L3 extracellular hemoglobin linker chain (Fragment) OS=Lumbricus terrestris OX=6398 PE=4 SV=1.exon2
+chr1	GenomeThreaderprot	exon	51538288	51538381	0.966	+	.	transcript=tr;Note=tr;ID=tr|Q9TXF2|Q9TXF2_LUMTE L3 extracellular hemoglobin linker chain (Fragment) OS=Lumbricus terrestris OX=6398 PE=4 SV=1.exon3
+chr1	GenomeThreaderprot	exon	51539495	51539674	0.965	+	.	transcript=tr;Note=tr;ID=tr|Q9TXF2|Q9TXF2_LUMTE L3 extracellular hemoglobin linker chain (Fragment) OS=Lumbricus terrestris OX=6398 PE=4 SV=1.exon4
+chr1	GenomeThreaderprot	transcript	51671620	51677848	0.942	-	.	transcript=tr;Note=tr;ID=tr|B3KUN1|B3KUN1_HUMAN Serine/threonine-protein phosphatase OS=Homo sapiens OX=9606 GN=PPP2CA PE=2 SV=1
+chr1	GenomeThreaderprot	exon	51677835	51677848	0.000	-	.	transcript=tr;Note=tr;ID=tr|B3KUN1|B3KUN1_HUMAN Serine/threonine-protein phosphatase OS=Homo sapiens OX=9606 GN=PPP2CA PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	exon	51677339	51677548	0.919	-	.	transcript=tr;Note=tr;ID=tr|B3KUN1|B3KUN1_HUMAN Serine/threonine-protein phosphatase OS=Homo sapiens OX=9606 GN=PPP2CA PE=2 SV=1.exon2
+chr1	GenomeThreaderprot	exon	51676697	51676870	0.913	-	.	transcript=tr;Note=tr;ID=tr|B3KUN1|B3KUN1_HUMAN Serine/threonine-protein phosphatase OS=Homo sapiens OX=9606 GN=PPP2CA PE=2 SV=1.exon3
+chr1	GenomeThreaderprot	exon	51675868	51675957	0.968	-	.	transcript=tr;Note=tr;ID=tr|B3KUN1|B3KUN1_HUMAN Serine/threonine-protein phosphatase OS=Homo sapiens OX=9606 GN=PPP2CA PE=2 SV=1.exon4
+chr1	GenomeThreaderprot	exon	51675217	51675378	0.981	-	.	transcript=tr;Note=tr;ID=tr|B3KUN1|B3KUN1_HUMAN Serine/threonine-protein phosphatase OS=Homo sapiens OX=9606 GN=PPP2CA PE=2 SV=1.exon5
+chr1	GenomeThreaderprot	exon	51674400	51674518	0.940	-	.	transcript=tr;Note=tr;ID=tr|B3KUN1|B3KUN1_HUMAN Serine/threonine-protein phosphatase OS=Homo sapiens OX=9606 GN=PPP2CA PE=2 SV=1.exon6
+chr1	GenomeThreaderprot	exon	51671620	51671689	0.929	-	.	transcript=tr;Note=tr;ID=tr|B3KUN1|B3KUN1_HUMAN Serine/threonine-protein phosphatase OS=Homo sapiens OX=9606 GN=PPP2CA PE=2 SV=1.exon7
+chr1	GenomeThreaderprot	transcript	55501673	55529958	0.936	-	.	transcript=tr;Note=tr;ID=tr|Q0G8J7|Q0G8J7_LUMTE High-affinity serotonin transporter protein (Fragment) OS=Lumbricus terrestris OX=6398 GN=SERT PE=2 SV=1
+chr1	GenomeThreaderprot	exon	55529789	55529958	0.842	-	.	transcript=tr;Note=tr;ID=tr|Q0G8J7|Q0G8J7_LUMTE High-affinity serotonin transporter protein (Fragment) OS=Lumbricus terrestris OX=6398 GN=SERT PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	exon	55503248	55503482	0.988	-	.	transcript=tr;Note=tr;ID=tr|Q0G8J7|Q0G8J7_LUMTE High-affinity serotonin transporter protein (Fragment) OS=Lumbricus terrestris OX=6398 GN=SERT PE=2 SV=1.exon2
+chr1	GenomeThreaderprot	exon	55501673	55501808	1.000	-	.	transcript=tr;Note=tr;ID=tr|Q0G8J7|Q0G8J7_LUMTE High-affinity serotonin transporter protein (Fragment) OS=Lumbricus terrestris OX=6398 GN=SERT PE=2 SV=1.exon3
+chr1	GenomeThreaderprot	transcript	57431403	57470525	0.990	+	.	transcript=tr;Note=tr;ID=tr|V9GWR0|V9GWR0_LUMTE Peroxidasin OS=Lumbricus terrestris OX=6398 PE=2 SV=1
+chr1	GenomeThreaderprot	exon	57431403	57431473	1.000	+	.	transcript=tr;Note=tr;ID=tr|V9GWR0|V9GWR0_LUMTE Peroxidasin OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	exon	57435004	57435075	1.000	+	.	transcript=tr;Note=tr;ID=tr|V9GWR0|V9GWR0_LUMTE Peroxidasin OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon2
+chr1	GenomeThreaderprot	exon	57440690	57440761	1.000	+	.	transcript=tr;Note=tr;ID=tr|V9GWR0|V9GWR0_LUMTE Peroxidasin OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon3
+chr1	GenomeThreaderprot	exon	57441466	57441537	0.978	+	.	transcript=tr;Note=tr;ID=tr|V9GWR0|V9GWR0_LUMTE Peroxidasin OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon4
+chr1	GenomeThreaderprot	exon	57441978	57442049	1.000	+	.	transcript=tr;Note=tr;ID=tr|V9GWR0|V9GWR0_LUMTE Peroxidasin OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon5
+chr1	GenomeThreaderprot	exon	57445543	57445697	0.973	+	.	transcript=tr;Note=tr;ID=tr|V9GWR0|V9GWR0_LUMTE Peroxidasin OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon6
+chr1	GenomeThreaderprot	exon	57448377	57448494	1.000	+	.	transcript=tr;Note=tr;ID=tr|V9GWR0|V9GWR0_LUMTE Peroxidasin OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon7
+chr1	GenomeThreaderprot	exon	57448968	57449152	0.987	+	.	transcript=tr;Note=tr;ID=tr|V9GWR0|V9GWR0_LUMTE Peroxidasin OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon8
+chr1	GenomeThreaderprot	exon	57450198	57450467	0.983	+	.	transcript=tr;Note=tr;ID=tr|V9GWR0|V9GWR0_LUMTE Peroxidasin OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon9
+chr1	GenomeThreaderprot	exon	57450782	57450898	1.000	+	.	transcript=tr;Note=tr;ID=tr|V9GWR0|V9GWR0_LUMTE Peroxidasin OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon10
+chr1	GenomeThreaderprot	exon	57451643	57451804	1.000	+	.	transcript=tr;Note=tr;ID=tr|V9GWR0|V9GWR0_LUMTE Peroxidasin OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon11
+chr1	GenomeThreaderprot	exon	57452188	57452463	1.000	+	.	transcript=tr;Note=tr;ID=tr|V9GWR0|V9GWR0_LUMTE Peroxidasin OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon12
+chr1	GenomeThreaderprot	exon	57452994	57453266	1.000	+	.	transcript=tr;Note=tr;ID=tr|V9GWR0|V9GWR0_LUMTE Peroxidasin OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon13
+chr1	GenomeThreaderprot	exon	57454110	57454343	1.000	+	.	transcript=tr;Note=tr;ID=tr|V9GWR0|V9GWR0_LUMTE Peroxidasin OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon14
+chr1	GenomeThreaderprot	exon	57455056	57455594	1.000	+	.	transcript=tr;Note=tr;ID=tr|V9GWR0|V9GWR0_LUMTE Peroxidasin OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon15
+chr1	GenomeThreaderprot	exon	57456172	57456445	1.000	+	.	transcript=tr;Note=tr;ID=tr|V9GWR0|V9GWR0_LUMTE Peroxidasin OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon16
+chr1	GenomeThreaderprot	exon	57457574	57458044	1.000	+	.	transcript=tr;Note=tr;ID=tr|V9GWR0|V9GWR0_LUMTE Peroxidasin OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon17
+chr1	GenomeThreaderprot	exon	57458498	57458615	1.000	+	.	transcript=tr;Note=tr;ID=tr|V9GWR0|V9GWR0_LUMTE Peroxidasin OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon18
+chr1	GenomeThreaderprot	exon	57459718	57459932	1.000	+	.	transcript=tr;Note=tr;ID=tr|V9GWR0|V9GWR0_LUMTE Peroxidasin OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon19
+chr1	GenomeThreaderprot	exon	57468146	57468438	0.905	+	.	transcript=tr;Note=tr;ID=tr|V9GWR0|V9GWR0_LUMTE Peroxidasin OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon20
+chr1	GenomeThreaderprot	exon	57469067	57469210	1.000	+	.	transcript=tr;Note=tr;ID=tr|V9GWR0|V9GWR0_LUMTE Peroxidasin OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon21
+chr1	GenomeThreaderprot	exon	57470433	57470525	1.000	+	.	transcript=tr;Note=tr;ID=tr|V9GWR0|V9GWR0_LUMTE Peroxidasin OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon22
+chr1	GenomeThreaderprot	transcript	61318810	61318884	0.853	+	.	transcript=tr;Note=tr;ID=tr|Q8MWS8|Q8MWS8_9ANNE Hox20 (Fragment) OS=Eisenia andrei OX=168636 PE=4 SV=1
+chr1	GenomeThreaderprot	exon	61318810	61318884	0.853	+	.	transcript=tr;Note=tr;ID=tr|Q8MWS8|Q8MWS8_9ANNE Hox20 (Fragment) OS=Eisenia andrei OX=168636 PE=4 SV=1.exon1
+chr1	GenomeThreaderprot	transcript	66405337	66406225	0.835	-	.	transcript=tr;Note=tr;ID=tr|Q2I6A6|Q2I6A6_EISFE HSp60 (Fragment) OS=Eisenia fetida OX=6396 PE=2 SV=1
+chr1	GenomeThreaderprot	exon	66406045	66406225	0.832	-	.	transcript=tr;Note=tr;ID=tr|Q2I6A6|Q2I6A6_EISFE HSp60 (Fragment) OS=Eisenia fetida OX=6396 PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	exon	66405525	66405607	0.840	-	.	transcript=tr;Note=tr;ID=tr|Q2I6A6|Q2I6A6_EISFE HSp60 (Fragment) OS=Eisenia fetida OX=6396 PE=2 SV=1.exon2
+chr1	GenomeThreaderprot	exon	66405337	66405354	1.000	-	.	transcript=tr;Note=tr;ID=tr|Q2I6A6|Q2I6A6_EISFE HSp60 (Fragment) OS=Eisenia fetida OX=6396 PE=2 SV=1.exon3
+chr1	GenomeThreaderprot	transcript	77677055	77681198	0.954	-	.	transcript=tr;Note=tr;ID=tr|Q2I741|Q2I741_LUMTE Extracellular hemoglobin linker L4 subunit OS=Lumbricus terrestris OX=6398 PE=2 SV=1
+chr1	GenomeThreaderprot	exon	77680970	77681198	0.985	-	.	transcript=tr;Note=tr;ID=tr|Q2I741|Q2I741_LUMTE Extracellular hemoglobin linker L4 subunit OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	exon	77679865	77679984	0.978	-	.	transcript=tr;Note=tr;ID=tr|Q2I741|Q2I741_LUMTE Extracellular hemoglobin linker L4 subunit OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon2
+chr1	GenomeThreaderprot	exon	77678133	77678266	0.904	-	.	transcript=tr;Note=tr;ID=tr|Q2I741|Q2I741_LUMTE Extracellular hemoglobin linker L4 subunit OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon3
+chr1	GenomeThreaderprot	exon	77677055	77677291	0.942	-	.	transcript=tr;Note=tr;ID=tr|Q2I741|Q2I741_LUMTE Extracellular hemoglobin linker L4 subunit OS=Lumbricus terrestris OX=6398 PE=2 SV=1.exon4
+chr1	GenomeThreaderprot	transcript	77692877	77696233	0.994	-	.	transcript=tr;Note=tr;ID=tr|O61234|O61234_LUMTE Extracellular globin OS=Lumbricus terrestris OX=6398 PE=3 SV=1
+chr1	GenomeThreaderprot	exon	77696079	77696233	1.000	-	.	transcript=tr;Note=tr;ID=tr|O61234|O61234_LUMTE Extracellular globin OS=Lumbricus terrestris OX=6398 PE=3 SV=1.exon1
+chr1	GenomeThreaderprot	exon	77693597	77693810	0.987	-	.	transcript=tr;Note=tr;ID=tr|O61234|O61234_LUMTE Extracellular globin OS=Lumbricus terrestris OX=6398 PE=3 SV=1.exon2
+chr1	GenomeThreaderprot	exon	77692877	77692981	1.000	-	.	transcript=tr;Note=tr;ID=tr|O61234|O61234_LUMTE Extracellular globin OS=Lumbricus terrestris OX=6398 PE=3 SV=1.exon3
+chr1	GenomeThreaderprot	transcript	77696105	77696179	1.000	-	.	transcript=tr;Note=tr;ID=tr|Q9TWE4|Q9TWE4_LUMTE Extracellular hemoglobin chain D2 (Fragment) OS=Lumbricus terrestris OX=6398 PE=1 SV=1
+chr1	GenomeThreaderprot	exon	77696105	77696179	1.000	-	.	transcript=tr;Note=tr;ID=tr|Q9TWE4|Q9TWE4_LUMTE Extracellular hemoglobin chain D2 (Fragment) OS=Lumbricus terrestris OX=6398 PE=1 SV=1.exon1
+chr1	GenomeThreaderprot	transcript	77700923	77703549	0.923	-	.	transcript=sp;Note=sp;ID=sp|P08924|GLB1_LUMTE Extracellular globin-1 OS=Lumbricus terrestris OX=6398 PE=1 SV=1
+chr1	GenomeThreaderprot	exon	77703449	77703549	0.906	-	.	transcript=sp;Note=sp;ID=sp|P08924|GLB1_LUMTE Extracellular globin-1 OS=Lumbricus terrestris OX=6398 PE=1 SV=1.exon1
+chr1	GenomeThreaderprot	exon	77701850	77702063	0.924	-	.	transcript=sp;Note=sp;ID=sp|P08924|GLB1_LUMTE Extracellular globin-1 OS=Lumbricus terrestris OX=6398 PE=1 SV=1.exon2
+chr1	GenomeThreaderprot	exon	77700923	77701032	0.935	-	.	transcript=sp;Note=sp;ID=sp|P08924|GLB1_LUMTE Extracellular globin-1 OS=Lumbricus terrestris OX=6398 PE=1 SV=1.exon3
+chr1	GenomeThreaderprot	transcript	77700928	77703603	0.986	-	.	transcript=tr;Note=tr;ID=tr|O61233|O61233_LUMTE Extracellular globin OS=Lumbricus terrestris OX=6398 PE=1 SV=1
+chr1	GenomeThreaderprot	exon	77703449	77703603	0.981	-	.	transcript=tr;Note=tr;ID=tr|O61233|O61233_LUMTE Extracellular globin OS=Lumbricus terrestris OX=6398 PE=1 SV=1.exon1
+chr1	GenomeThreaderprot	exon	77701850	77702063	0.983	-	.	transcript=tr;Note=tr;ID=tr|O61233|O61233_LUMTE Extracellular globin OS=Lumbricus terrestris OX=6398 PE=1 SV=1.exon2
+chr1	GenomeThreaderprot	exon	77700928	77701032	1.000	-	.	transcript=tr;Note=tr;ID=tr|O61233|O61233_LUMTE Extracellular globin OS=Lumbricus terrestris OX=6398 PE=1 SV=1.exon3
+chr1	GenomeThreaderprot	transcript	87077323	87079198	0.909	-	.	transcript=tr;Note=tr;ID=tr|A0A287AVS8|A0A287AVS8_PIG Actin, aortic smooth muscle OS=Sus scrofa OX=9823 GN=ACTA2 PE=3 SV=3
+chr1	GenomeThreaderprot	exon	87079070	87079198	0.858	-	.	transcript=tr;Note=tr;ID=tr|A0A287AVS8|A0A287AVS8_PIG Actin, aortic smooth muscle OS=Sus scrofa OX=9823 GN=ACTA2 PE=3 SV=3.exon1
+chr1	GenomeThreaderprot	exon	87078460	87078699	0.970	-	.	transcript=tr;Note=tr;ID=tr|A0A287AVS8|A0A287AVS8_PIG Actin, aortic smooth muscle OS=Sus scrofa OX=9823 GN=ACTA2 PE=3 SV=3.exon2
+chr1	GenomeThreaderprot	exon	87077421	87078084	0.901	-	.	transcript=tr;Note=tr;ID=tr|A0A287AVS8|A0A287AVS8_PIG Actin, aortic smooth muscle OS=Sus scrofa OX=9823 GN=ACTA2 PE=3 SV=3.exon3
+chr1	GenomeThreaderprot	exon	87077323	87077370	0.955	-	.	transcript=tr;Note=tr;ID=tr|A0A287AVS8|A0A287AVS8_PIG Actin, aortic smooth muscle OS=Sus scrofa OX=9823 GN=ACTA2 PE=3 SV=3.exon4
+chr1	GenomeThreaderprot	transcript	87112687	87114691	0.954	-	.	transcript=sp;Note=sp;ID=sp|P92182|ACT1_LUMTE Actin-1 OS=Lumbricus terrestris OX=6398 GN=ACT1 PE=2 SV=1
+chr1	GenomeThreaderprot	exon	87114566	87114691	0.886	-	.	transcript=sp;Note=sp;ID=sp|P92182|ACT1_LUMTE Actin-1 OS=Lumbricus terrestris OX=6398 GN=ACT1 PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	exon	87113974	87114213	1.000	-	.	transcript=sp;Note=sp;ID=sp|P92182|ACT1_LUMTE Actin-1 OS=Lumbricus terrestris OX=6398 GN=ACT1 PE=2 SV=1.exon2
+chr1	GenomeThreaderprot	exon	87112687	87113448	0.946	-	.	transcript=sp;Note=sp;ID=sp|P92182|ACT1_LUMTE Actin-1 OS=Lumbricus terrestris OX=6398 GN=ACT1 PE=2 SV=1.exon3
+chr1	GenomeThreaderprot	transcript	87112687	87114691	0.974	-	.	transcript=sp;Note=sp;ID=sp|P92176|ACT2_LUMTE Actin-2 OS=Lumbricus terrestris OX=6398 GN=ACT2 PE=2 SV=1
+chr1	GenomeThreaderprot	exon	87114566	87114691	0.952	-	.	transcript=sp;Note=sp;ID=sp|P92176|ACT2_LUMTE Actin-2 OS=Lumbricus terrestris OX=6398 GN=ACT2 PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	exon	87113974	87114213	1.000	-	.	transcript=sp;Note=sp;ID=sp|P92176|ACT2_LUMTE Actin-2 OS=Lumbricus terrestris OX=6398 GN=ACT2 PE=2 SV=1.exon2
+chr1	GenomeThreaderprot	exon	87112687	87113448	0.968	-	.	transcript=sp;Note=sp;ID=sp|P92176|ACT2_LUMTE Actin-2 OS=Lumbricus terrestris OX=6398 GN=ACT2 PE=2 SV=1.exon3
+chr1	GenomeThreaderprot	transcript	87112687	87114691	0.975	-	.	transcript=tr;Note=tr;ID=tr|A0A2I7YV73|A0A2I7YV73_EISFE Actin OS=Eisenia fetida OX=6396 PE=2 SV=1
+chr1	GenomeThreaderprot	exon	87114566	87114691	0.886	-	.	transcript=tr;Note=tr;ID=tr|A0A2I7YV73|A0A2I7YV73_EISFE Actin OS=Eisenia fetida OX=6396 PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	exon	87113974	87114213	1.000	-	.	transcript=tr;Note=tr;ID=tr|A0A2I7YV73|A0A2I7YV73_EISFE Actin OS=Eisenia fetida OX=6396 PE=2 SV=1.exon2
+chr1	GenomeThreaderprot	exon	87112687	87113448	0.979	-	.	transcript=tr;Note=tr;ID=tr|A0A2I7YV73|A0A2I7YV73_EISFE Actin OS=Eisenia fetida OX=6396 PE=2 SV=1.exon3
+chr1	GenomeThreaderprot	transcript	87112687	87114679	0.957	-	.	transcript=sp;Note=sp;ID=sp|P91754|ACT_LUMRU Actin (Fragment) OS=Lumbricus rubellus OX=35632 PE=2 SV=1
+chr1	GenomeThreaderprot	exon	87114566	87114679	0.935	-	.	transcript=sp;Note=sp;ID=sp|P91754|ACT_LUMRU Actin (Fragment) OS=Lumbricus rubellus OX=35632 PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	exon	87113974	87114213	1.000	-	.	transcript=sp;Note=sp;ID=sp|P91754|ACT_LUMRU Actin (Fragment) OS=Lumbricus rubellus OX=35632 PE=2 SV=1.exon2
+chr1	GenomeThreaderprot	exon	87112687	87113448	0.942	-	.	transcript=sp;Note=sp;ID=sp|P91754|ACT_LUMRU Actin (Fragment) OS=Lumbricus rubellus OX=35632 PE=2 SV=1.exon3
+chr1	GenomeThreaderprot	transcript	87121959	87123083	0.974	-	.	transcript=tr;Note=tr;ID=tr|E9KJS6|E9KJS6_9ANNE Beta-actin (Fragment) OS=Lumbricus friendi OX=947006 PE=2 SV=1
+chr1	GenomeThreaderprot	exon	87123003	87123083	1.000	-	.	transcript=tr;Note=tr;ID=tr|E9KJS6|E9KJS6_9ANNE Beta-actin (Fragment) OS=Lumbricus friendi OX=947006 PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	exon	87121959	87122471	0.969	-	.	transcript=tr;Note=tr;ID=tr|E9KJS6|E9KJS6_9ANNE Beta-actin (Fragment) OS=Lumbricus friendi OX=947006 PE=2 SV=1.exon2
+chr1	GenomeThreaderprot	transcript	90736986	90737174	0.844	+	.	transcript=sp;Note=sp;ID=sp|P84589|UBIQ_LUMTE Ubiquitin (Fragment) OS=Lumbricus terrestris OX=6398 PE=1 SV=2
+chr1	GenomeThreaderprot	exon	90736986	90737174	0.844	+	.	transcript=sp;Note=sp;ID=sp|P84589|UBIQ_LUMTE Ubiquitin (Fragment) OS=Lumbricus terrestris OX=6398 PE=1 SV=2.exon1
+chr1	GenomeThreaderprot	transcript	91986436	91991649	0.813	+	.	transcript=tr;Note=tr;ID=tr|A0A143Y4B3|A0A143Y4B3_9ANNE Myeloid Differentation primary response protein MyD88 OS=Eisenia andrei OX=168636 GN=EaMyD88 PE=2 SV=1
+chr1	GenomeThreaderprot	exon	91986436	91986784	0.881	+	.	transcript=tr;Note=tr;ID=tr|A0A143Y4B3|A0A143Y4B3_9ANNE Myeloid Differentation primary response protein MyD88 OS=Eisenia andrei OX=168636 GN=EaMyD88 PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	exon	91987589	91987672	0.768	+	.	transcript=tr;Note=tr;ID=tr|A0A143Y4B3|A0A143Y4B3_9ANNE Myeloid Differentation primary response protein MyD88 OS=Eisenia andrei OX=168636 GN=EaMyD88 PE=2 SV=1.exon2
+chr1	GenomeThreaderprot	exon	91988253	91988294	0.590	+	.	transcript=tr;Note=tr;ID=tr|A0A143Y4B3|A0A143Y4B3_9ANNE Myeloid Differentation primary response protein MyD88 OS=Eisenia andrei OX=168636 GN=EaMyD88 PE=2 SV=1.exon3
+chr1	GenomeThreaderprot	exon	91989533	91989716	0.983	+	.	transcript=tr;Note=tr;ID=tr|A0A143Y4B3|A0A143Y4B3_9ANNE Myeloid Differentation primary response protein MyD88 OS=Eisenia andrei OX=168636 GN=EaMyD88 PE=2 SV=1.exon4
+chr1	GenomeThreaderprot	exon	91990532	91990623	1.000	+	.	transcript=tr;Note=tr;ID=tr|A0A143Y4B3|A0A143Y4B3_9ANNE Myeloid Differentation primary response protein MyD88 OS=Eisenia andrei OX=168636 GN=EaMyD88 PE=2 SV=1.exon5
+chr1	GenomeThreaderprot	exon	91991078	91991649	0.671	+	.	transcript=tr;Note=tr;ID=tr|A0A143Y4B3|A0A143Y4B3_9ANNE Myeloid Differentation primary response protein MyD88 OS=Eisenia andrei OX=168636 GN=EaMyD88 PE=2 SV=1.exon6
+chr1	GenomeThreaderprot	transcript	98669537	98671928	0.864	+	.	transcript=tr;Note=tr;ID=tr|Q2I699|Q2I699_EISFE Protein kinase C2 (Fragment) OS=Eisenia fetida OX=6396 PE=2 SV=1
+chr1	GenomeThreaderprot	exon	98669537	98669650	0.858	+	.	transcript=tr;Note=tr;ID=tr|Q2I699|Q2I699_EISFE Protein kinase C2 (Fragment) OS=Eisenia fetida OX=6396 PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	exon	98670965	98671119	0.896	+	.	transcript=tr;Note=tr;ID=tr|Q2I699|Q2I699_EISFE Protein kinase C2 (Fragment) OS=Eisenia fetida OX=6396 PE=2 SV=1.exon2
+chr1	GenomeThreaderprot	exon	98671799	98671928	0.831	+	.	transcript=tr;Note=tr;ID=tr|Q2I699|Q2I699_EISFE Protein kinase C2 (Fragment) OS=Eisenia fetida OX=6396 PE=2 SV=1.exon3
+chr1	GenomeThreaderprot	transcript	98670666	98671928	1.000	+	.	transcript=tr;Note=tr;ID=tr|Q2I6A0|Q2I6A0_EISFE Protein kinase C1 (Fragment) OS=Eisenia fetida OX=6396 PE=2 SV=1
+chr1	GenomeThreaderprot	exon	98670666	98670704	0.333	+	.	transcript=tr;Note=tr;ID=tr|Q2I6A0|Q2I6A0_EISFE Protein kinase C1 (Fragment) OS=Eisenia fetida OX=6396 PE=2 SV=1.exon1
+chr1	GenomeThreaderprot	exon	98670965	98671119	1.000	+	.	transcript=tr;Note=tr;ID=tr|Q2I6A0|Q2I6A0_EISFE Protein kinase C1 (Fragment) OS=Eisenia fetida OX=6396 PE=2 SV=1.exon2
+chr1	GenomeThreaderprot	exon	98671799	98671928	1.000	+	.	transcript=tr;Note=tr;ID=tr|Q2I6A0|Q2I6A0_EISFE Protein kinase C1 (Fragment) OS=Eisenia fetida OX=6396 PE=2 SV=1.exon3

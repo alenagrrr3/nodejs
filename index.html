@@ -11,6 +11,11 @@
 
 <body>
 
+<!--
+https://genome321.s3.amazonaws.com/augustus.gff
+https://genome321.s3.amazonaws.com/chr1rube.gff
+https://genome321.s3.amazonaws.com/chr1terr.gff
+-->
 
 
 <div id="igvDiv" style="padding-top: 20px;padding-bottom: 20px; height: auto"></div>
@@ -55,17 +60,26 @@
                     color: "#A9A9A9"
 					
 				},
-				
-				{
+				 				{
 				   
-                    url: "https://genome321.s3.amazonaws.com/proteome.chr1.lumterr.gff",
+                    url: "/lumbricus/augustus.gff",
+                    type: "annotation",
+                    format: "gff3",                 
+                    name:"Augustus",
+                    color: "#A9A9A9"
+					
+				},
+				
+		
+ 				{
+				   
+                    url: "lumbricus/chr1terr.gff",
                     type: "annotation",
                     format: "gff3",                 
                     name:"proteome",
                     color: "red"
 					
-				},				
- 
+				},	
 
             ]
         }
@@ -88,8 +102,8 @@
 			
 			},
 			
-            locus: "chr1:35,182,830-35,266,798",			
-		
+            locus: "chr1:24,352,211-24,394,1958",			
+
 			
             tracks: [
                 {
@@ -121,7 +135,7 @@
 				},
 								{
 				   
-                    url: "https://genome321.s3.amazonaws.com/algn.chr1.gff3",
+                    url: "/lumbricus/chr1rube.gff",
                     type: "annotation",
                     format: "gff3",                 
                     name:"proteome",
